@@ -15,3 +15,5 @@ Bueno, ahora hemos creado una rama y vamos a modificar el archiv.
 Bien, ya estamos trabajando en la rama.
 
 Ahora haremos unos cambios en la RAMA LATERAL2...
+
+Ahora hago unas pruebas en la ramaLateral 2 mientras hay el wip Stash de la rama 1
