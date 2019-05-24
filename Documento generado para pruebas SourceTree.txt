@@ -2,6 +2,8 @@ Este es el fichero que se guardará en el master.
 
 Lo subiremos con SourceTree.
 
+Pero creo que es mejor que sigamos con GitKraken
+
 Que la Fuerza me acompañe...  :-|
 
 Ahora vamos a hacer un cambio commit sin subir.
