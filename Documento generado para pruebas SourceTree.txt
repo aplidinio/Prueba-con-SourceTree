@@ -9,3 +9,9 @@ Que la Fuerza me acompañe...  :-|
 Ahora vamos a hacer un cambio commit sin subir.
 
 y este será el tercer commit.
+
+Bueno, ahora hemos creado una rama y vamos a modificar el archiv.
+
+Bien, ya estamos trabajando en la rama.
+
+Ahora haremos unos cambios en la RAMA LATERAL2...
