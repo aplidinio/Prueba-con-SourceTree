@@ -2,8 +2,10 @@ Este es el fichero que se guardará en el master.
 
 Lo subiremos con SourceTree.
 
-Pero creo que es mejor que sigamos con GitKraken
+Pero creo que es mejor que sigamos con GitKraken que se nos da mejor
 
 Que la Fuerza me acompañe...  :-|
 
 Ahora vamos a hacer un cambio commit sin subir.
+
+y este será el tercer commit.
